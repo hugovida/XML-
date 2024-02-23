@@ -1,0 +1,36 @@
+<Formula_1>
+<pilotos>
+    <piloto id="1">
+		<nombre>Fernando</nombre>
+		<apellido>Alonso</apellido>
+		<edad>41</edad>
+    </piloto>
+    <piloto id="2">
+		<nombre>Carlos</nombre>
+		<apellido>Sainz</apellido>
+		<edad>29</edad>
+    </piloto>
+    
+    <piloto id="3">
+		<nombre>Sergio</nombre>
+		<apellido>Perez</apellido>
+		<edad>33</edad>
+    </piloto>
+</pilotos>
+
+<escuderias>
+    <escuderia id="1">
+		<nombre>Ferrari</nombre>
+		<trabajadores>3000</trabajadores>
+    </escuderia>
+    <escuderia id="2">
+		<nombre>Mercedes</nombre>
+		<trabajadores>2500</trabajadores>
+    </escuderia>
+    <escuderia id="3">
+		<nombre>Aston Martin</nombre>
+		<trabajadores>2000</trabajadores>
+    </escuderia>
+</escuderias>
+</Formula_1>
+
